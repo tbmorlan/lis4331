@@ -16,6 +16,12 @@
     - Provide git command descriptions
 
 2. [A2 README.md](a2/README.md "My A2 README.md file")
+    - Calculate split bill total
+    - Include number of guests and tip percentage functionality
+    - Must allow for including decimal point for bill total
+    - Drop-down menu for tip percentage (5% increments): 0 - 25
+    - Add background color(s)
+    - Must create and display launcher icon image
 
 3. [A3 README.md](a3/README.md "My A3 README.md file")
 

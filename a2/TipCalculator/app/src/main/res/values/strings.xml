@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+
+    <string name="txtTitle">Split The Bill</string>
+    <string name="txtTotal">Bill Total</string>
+    <string name="guest">Select Num Guests</string>
+    <string name="tip">Select Tip %</string>
+    <string name="description">Restaurant Image</string>
+    <string name="btnCost">Calculate</string>
+    <string name="billTotal">Bill Total</string>
+
+    <!--drop down menu for num guests-->
+    <string-array name="txtGuests">
+        <item>Number of Guests</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+    </string-array>
+
+    <!--drop down menu for tips-->
+    <string-array name="txtTip">
+        <item>Tip Percentage</item>
+        <item>0%</item>
+        <item>5%</item>
+        <item>10%</item>
+        <item>15%</item>
+        <item>20%</item>
+        <item>25%</item>
+    </string-array>
+
+</resources>
