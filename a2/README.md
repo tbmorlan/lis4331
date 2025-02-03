@@ -16,7 +16,7 @@
 3. Must allow for including decimal point for bill total
 4. Drop-down menu for tip percentage (5% increments): 0 - 25
 5. Add background color(s)
-6. Must create and display launcher icon imag1.
+6. Must create and display launcher icon image
 
 **README.md file should include the following items:**
 
@@ -44,6 +44,6 @@
 
 #### **Skill Sets:**
 
-| *Code for [Skill Set 1](../skillsets/ss1_non_oop_circle/Methods.java)* | *Code for [Skill Set 2](../skillsets/ss2_multiple_number/Methods.java)* *Code for [Skill Set 3](../skillsets/ss3_nested_structures/Methods.java)*
+| *Code for [Skill Set 1](../skillsets/ss1_non_oop_circle/Methods.java)* | *Code for [Skill Set 2](../skillsets/ss2_multiple_number/Methods.java)* | *Code for [Skill Set 3](../skillsets/ss3_nested_structures/Methods.java)* |
 | ------------- | ------------- | ------------- |
 | ![Screenshot of Skill Set 1](img/ss1.png "Skill Set 1") | ![Screenshot of Skill Set 2](img/ss2.png "Skill Set 2") | ![Screenshot of Skill Set 3](img/ss3.png "Skill Set 3") |
