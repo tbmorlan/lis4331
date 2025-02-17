@@ -55,3 +55,11 @@
 | ------------- | ------------- |
 | ![Screenshot of Skill Set 5-1](img/ss5-1.png "Screenshot of Skill Set 5-1") | ![Screenshot of Skill Set 5-2](img/ss5-2.png "Screenshot of Skill Set 5-2") |
 | ![Screenshot of Skill Set 5-3](img/ss5-3.png "Screenshot of Skill Set 5-3") | ![Screenshot of Skill Set 5-4](img/ss5-4.png "Screenshot of Skill Set 5-4") |
+
+| *Code for [Skill Set 6](../skillsets/ss6_paint_calculator/Methods.java)* | *Cont.* |
+| ------------- | ------------- |
+| ![Screenshot of Skill Set 6-1](img/ss6-1.png "Screenshot of Skill Set 6-1") | ![Screenshot of Skill Set 6-2](img/ss6-2.png "Screenshot of Skill Set 6-2") |
+| ![Screenshot of Skill Set 6-3](img/ss6-3.png "Screenshot of Skill Set 6-3") | ![Screenshot of Skill Set 6-4](img/ss6-4.png "Screenshot of Skill Set 6-4") |
+| ![Screenshot of Skill Set 6-5](img/ss6-5.png "Screenshot of Skill Set 6-5") | ![Screenshot of Skill Set 6-6](img/ss6-6.png "Screenshot of Skill Set 6-6") |
+| ![Screenshot of Skill Set 6-7](img/ss6-7.png "Screenshot of Skill Set 6-7") | ![Screenshot of Skill Set 6-8](img/ss6-8.png "Screenshot of Skill Set 6-8") |
+| ![Screenshot of Skill Set 6-9](img/ss6-9.png "Screenshot of Skill Set 6-9") | ![Screenshot of Skill Set 6-10](img/ss6-10.png "Screenshot of Skill Set 6-10") |
