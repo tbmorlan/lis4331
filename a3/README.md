@@ -48,5 +48,5 @@
 #### **Skill Sets:**
 
 | *Code for [Skill Set 4](../skillsets/ss1_non_oop_circle/Methods.java)* | *Cont.* |
-| ------------- | ------------- | ------------- |
+| ------------- | ------------- |
 | ![Screenshot of Skill Set 4-1](img/ss4-1.png "Screenshot of Skill Set 4-1") | ![Screenshot of Skill Set 4-2](img/ss4-2.png "Screenshot of Skill Set 4-2") |
