@@ -47,6 +47,11 @@
 
 #### **Skill Sets:**
 
-| *Code for [Skill Set 4](../skillsets/ss1_non_oop_circle/Methods.java)* | *Cont.* |
+| *Code for [Skill Set 4](../skillsets/ss4_time_conversion/Methods.java)* | *Cont.* |
 | ------------- | ------------- |
 | ![Screenshot of Skill Set 4-1](img/ss4-1.png "Screenshot of Skill Set 4-1") | ![Screenshot of Skill Set 4-2](img/ss4-2.png "Screenshot of Skill Set 4-2") |
+
+| *Code for [Skill Set 5](../skillsets/ss5_even_or_odd/Methods.java)* | *Cont.* |
+| ------------- | ------------- |
+| ![Screenshot of Skill Set 5-1](img/ss5-1.png "Screenshot of Skill Set 5-1") | ![Screenshot of Skill Set 5-2](img/ss5-2.png "Screenshot of Skill Set 5-2") |
+| ![Screenshot of Skill Set 5-3](img/ss5-3.png "Screenshot of Skill Set 5-3") | ![Screenshot of Skill Set 5-4](img/ss5-4.png "Screenshot of Skill Set 5-4") |
