@@ -10,6 +10,7 @@
 ### **Assignment 3 Requirements:**
 
 *Eight Parts*
+
 1. Field to enter U.S. dollar amount: 1- 100,000
 2. Must include toast notification if user enters out-of-range values
 3. Radio buttons to convert from U.S. to Euros, Pesos, and Canadian currency (must be vertically and horizontally aligned)
