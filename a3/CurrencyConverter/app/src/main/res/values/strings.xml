@@ -1,0 +1,21 @@
+<resources>
+
+    <string name="app_name">Currency Converter</string>
+
+    <!-- activity_main.xml -->
+    <string name="hint">U.S. Dollars</string>
+    <string name="radUSToEuros">US to Euros</string>
+    <string name="radUSToPesos">US to Pesos</string>
+    <string name="radUSToCanadian">US to Canadian</string>
+    <string name="btnConvert">Convert</string>
+
+    <!-- for both -->
+    <string name="txtTitle">Convert Currency</string>
+
+    <!-- activity_splash.xml -->
+    <string name="txtAuthor">Tanner Morlan</string>
+    <string name="txtCompany">tannermorlan.com</string>
+    <string name="txtContact">tannerbmorlan@gmail.com</string>
+    <string name="txtLinkedIn"><a href="https://www.linkedin.com/in/tanner-morlan/">LinkedIn</a></string>
+
+</resources>
