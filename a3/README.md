@@ -7,44 +7,46 @@
 
 ## Tanner Morlan
 
-### **Assignment 1 Requirements:**
+### **Assignment 3 Requirements:**
 
-*Four Parts*
-
-1. Distributed Version Control with Git and Bitbucket
-2. Development Installations
-3. Chapter Questions (Chs. 1, 2)
-4. Bitbucket repo links
+*Eight Parts*
+1. Field to enter U.S. dollar amount: 1- 100,000
+2. Must include toast notification if user enters out-of-range values
+3. Radio buttons to convert from U.S. to Euros, Pesos, and Canadian currency (must be vertically and horizontally aligned)
+4. Must include correct sign for euros, pesos, and Canadian dollars
+5. Must add background color(s) or theme
+6. Create and display launcher icon
+7. Must be scrollable - *both* horizontally and vertically
+8. Create Splash/Loading Screen
 
 **README.md file should include the following items:**
 
-- Screenshot of running java Hello
-- Screenshot of running Android Studio - My First App
-- Screenshots of running Android Studio - Contacts App
-- Git commands w/short descriptions
+- Screenshot of running application’s splash screen
+- Screenshot of running application’s unpopulated user interface
+- Screenshot of running application’s toast notification
+- Screenshot of running application’s converted currency user interface
+- Screenshot of app scrolling
+- Screenshot of skill sets
+
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
-> #### Git commands w/short descriptions:
-
-1. git init: Create an empty Git repository or reinitialize an existing one
-2. git status: Show the working tree status
-3. git add: Add file contents to the index
-4. git commit: Record changes to the repository
-5. git push: Update remote refs along with associated objects
-6. git pull: Fetch from and integrate with another repository or a local branch
-7. One addition git command - git clone: Clone a repository into a new directory
 
 #### **Assignment Screenshots:**
 
-| *Screenshot of running java Hello* | *Screenshot of Android Studio - My First App* |
+| *Screenshot of running application’s splash screen* | *Screenshot of running application’s unpopulated user interface* |
 | ------------- | ------------- |
-| ![Screenshot of running java Hello](img/java_hello.png "Screenshot of running java Hello") | ![Screenshot of Android Studio - My First App](img/android_studio_my_first_app.png "Screenshot of Android Studio - My First App") |
+| ![Screenshot of running application’s splash screen](img/splash_recording.gif "Screenshot of running application’s splash screen") | ![Screenshot of running application’s unpopulated user interface](img/unpopulated_ui.png "Screenshot of running application’s unpopulated user interface") |
 
-| *Screenshot of Contacts App - Main Screen* | *Screenshot of Contacts App - Info Screen* |
-| ------------- | ------------- |
-| ![Screenshot of Contacts App - Main Screen](img/main_screen.png "Screenshot of Contacts App - Main Screen") | ![Screenshot of Contacts App - Info Screen](img/info_screen.png "Screenshot of Contacts App - Info Screen") |
+| *Screenshot of running application’s toast notification* | *Screenshot of running application’s converted currency user interface* | *Screenshot of app scrolling* |
+| ------------- | ------------- | ------------- |
+| ![Screenshot of running application’s toast notification](img/toast_notification.png "Screenshot of running application’s toast notification") | ![Screenshot of running application’s converted currency user interface](img/converted_currency.png "Screenshot of running application’s converted currency user interface") | ![Screenshot of app scrolling](img/scrolling.gif "Screenshot of app scrolling") |
 
 
+#### **Skill Sets:**
+
+| *Code for [Skill Set 4](../skillsets/ss1_non_oop_circle/Methods.java)* | |
+| ------------- | ------------- | ------------- |
+| ![Screenshot of Skill Set 4-1](img/ss4-1.png "Screenshot of Skill Set 4-1") | ![Screenshot of Skill Set 4-2](img/ss4-2.png "Screenshot of Skill Set 4-2") |
