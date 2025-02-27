@@ -46,9 +46,9 @@
 
 #### **Skill Sets:**
 
-| *Code for [Skill Set 7](../skillsets/ss7_measurement_conversion/Methods.java)* |
-| ------------- |
-| ![Screenshot of Skill Set 7](img/ss7.png "Screenshot of Skill Set 7") |
+| *Code for [Skill Set 7](../skillsets/ss7_measurement_conversion/Methods.java)* | *Cont.* |
+| ------------- | ------------- |
+| ![Screenshot of Skill Set 7-1](img/ss7-1.png "Screenshot of Skill Set 7-1") | ![Screenshot of Skill Set 7-2](img/ss7-2.png "Screenshot of Skill Set 7-2") |
 
 | *Code for [Skill Set 8](../skillsets/ss8_distance_calculator/DistanceCalculator.java)* | *Cont.* |
 | ------------- | ------------- |
