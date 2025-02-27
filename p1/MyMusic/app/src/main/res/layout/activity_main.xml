@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:fitsSystemWindows="true"  >
+
+    <androidx.appcompat.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="?attr/colorPrimary"
+        android:elevation="4dp"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+        app:titleTextColor="@color/white" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <androidx.constraintlayout.widget.ConstraintLayout
+            android:id="@+id/main"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp"
+            android:paddingRight="16dp"
+            android:paddingLeft="16dp"
+            tools:context=".MainActivity">
+
+            <ImageView
+                android:id="@+id/bathoryImage"
+                android:layout_marginTop="15sp"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:src="@drawable/bathory"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toTopOf="parent"
+                app:layout_constraintWidth_percent="0.3"
+                app:layout_constraintHeight_percent="0.2"/>
+
+            <Button
+                android:id="@+id/txtSong1"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/txtSong1"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintWidth_percent="0.9"
+                app:layout_constraintTop_toBottomOf="@+id/bathoryImage"
+                android:textSize="19sp"
+                android:background="@color/darkGrey"
+                android:textColor="@color/white" />
+
+            <ImageView
+                android:id="@+id/venomImage"
+                android:layout_marginTop="15sp"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:src="@drawable/venom"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtSong1"
+                app:layout_constraintWidth_percent="0.3"
+                app:layout_constraintHeight_percent="0.2"/>
+
+            <Button
+                android:id="@+id/txtSong2"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/txtSong2"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintWidth_percent="0.9"
+                app:layout_constraintTop_toBottomOf="@+id/venomImage"
+                android:textSize="19sp"
+                android:background="@color/darkGrey"
+                android:textColor="@color/white" />
+
+            <ImageView
+                android:id="@+id/deathImage"
+                android:layout_marginTop="15sp"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:src="@drawable/death"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintTop_toBottomOf="@+id/txtSong2"
+                app:layout_constraintWidth_percent="0.3"
+                app:layout_constraintHeight_percent="0.2"/>
+
+            <Button
+                android:id="@+id/txtSong3"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/txtSong3"
+                app:layout_constraintStart_toStartOf="parent"
+                app:layout_constraintEnd_toEndOf="parent"
+                app:layout_constraintWidth_percent="0.9"
+                app:layout_constraintTop_toBottomOf="@+id/deathImage"
+                android:textSize="19sp"
+                android:background="@color/darkGrey"
+                android:textColor="@color/white" />
+
+        </androidx.constraintlayout.widget.ConstraintLayout>
+
+    </ScrollView>
+
+</LinearLayout>

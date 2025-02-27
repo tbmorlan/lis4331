@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">My Music</string>
+
+    <!-- activity main -->
+    <string name="txtSong1">Bathory - Enter the Eternal Fire</string>
+    <string name="txtSong2">Venom - Countess Bathory</string>
+    <string name="txtSong3">Death - Symbolic</string>
+
+    <!-- for both -->
+    <string name="txtTitle">My Music</string>
+
+    <!-- activity splash -->
+    <string name="txtSplash">Tanner\'s Music</string>
+</resources>
