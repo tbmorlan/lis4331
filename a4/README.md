@@ -50,6 +50,6 @@
 
 #### **Skill Sets:**
 
-| *Code for [Skill Set 10](../skillsets/ss10_travel_time/Methods.java)* | *Code for [Skill Set 11-1](../skillsets/ss11_product_class/Product.java) [Skill Set 11-2](../skillsets/ss11_product_class/ProductDemo.java)* | *Code for [Skill Set 12-1](../skillsets/ss12_book_inherits_product_class/Product.java) [Skill Set 12-2](../skillsets/ss12_book_inherits_product_class/Book.java) [Skill Set 12-3](../skillsets/ss12_book_inherits_product_class/BookDemo.java)* |
+| *Code for [Skill Set 10](../skillsets/ss10_travel_time/Methods.java)* | *Code for [Skill Set 11-1](../skillsets/ss11_product_class/Product.java), [Skill Set 11-2](../skillsets/ss11_product_class/ProductDemo.java)* | *Code for [Skill Set 12-1](../skillsets/ss12_book_inherits_product_class/Product.java), [Skill Set 12-2](../skillsets/ss12_book_inherits_product_class/Book.java), [Skill Set 12-3](../skillsets/ss12_book_inherits_product_class/BookDemo.java)* |
 | ------------- | ------------- | ------------- |
 | ![Screenshot of Skill Set 10](img/ss10.png "Skill Set 10") | ![Screenshot of Skill Set 11](img/ss11.png "Skill Set 11") | ![Screenshot of Skill Set 12](img/ss12.png "Skill Set 12") |
