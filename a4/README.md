@@ -7,44 +7,49 @@
 
 ## Tanner Morlan
 
-### **Assignment 1 Requirements:**
+### **Assignment 4 Requirements:**
 
-*Four Parts*
+*Seven Parts*
 
-1. Distributed Version Control with Git and Bitbucket
-2. Development Installations
-3. Chapter Questions (Chs. 1, 2)
-4. Bitbucket repo links
+1. Include splash screen image (or, create your own), app title, intro text.
+2. Include appropriate images.
+3. Must use persistent data: SharedPreferences
+4. Widgets and images must be vertically and horizontally aligned.
+5. Must add background color(s) or theme
+6. Create and display launcher icon image
+7. App *must* be scrollable—*both* horizontally and vertically
 
 **README.md file should include the following items:**
 
-- Screenshot of running java Hello
-- Screenshot of running Android Studio - My First App
-- Screenshots of running Android Studio - Contacts App
-- Git commands w/short descriptions
+- Screenshot of splash screen
+- Screenshot of main screen
+- Gif of app scrolling horizontally
+- Screenshot of incorrect years
+- Screenshot of valid entry
+- Screenshot of calculation
+- Screenshots of skill sets
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
-> #### Git commands w/short descriptions:
-
-1. git init: Create an empty Git repository or reinitialize an existing one
-2. git status: Show the working tree status
-3. git add: Add file contents to the index
-4. git commit: Record changes to the repository
-5. git push: Update remote refs along with associated objects
-6. git pull: Fetch from and integrate with another repository or a local branch
-7. One addition git command - git clone: Clone a repository into a new directory
 
 #### **Assignment Screenshots:**
 
-| *Screenshot of running java Hello* | *Screenshot of Android Studio - My First App* |
+| *Screenshot of splash screen* | *Screenshot of main screen* |
 | ------------- | ------------- |
-| ![Screenshot of running java Hello](img/java_hello.png "Screenshot of running java Hello") | ![Screenshot of Android Studio - My First App](img/android_studio_my_first_app.png "Screenshot of Android Studio - My First App") |
+| ![Screenshot of splash screen](img/splash_screen.png "Screenshot of splash screen") | ![Screenshot of main screen](img/main_screen.png "Screenshot of main screen") |
 
-| *Screenshot of Contacts App - Main Screen* | *Screenshot of Contacts App - Info Screen* |
-| ------------- | ------------- |
-| ![Screenshot of Contacts App - Main Screen](img/main_screen.png "Screenshot of Contacts App - Main Screen") | ![Screenshot of Contacts App - Info Screen](img/info_screen.png "Screenshot of Contacts App - Info Screen") |
+| *Gif of app scrolling horizontally* |
+| ------------- |
+| ![Gif of app scrolling horizontally](img/scrolling.gif "Gif of app scrolling horizontally") |
 
+| *Screenshot of incorrect years* | *Screenshot of valid entry* | *Screenshot of calculation* |
+| ------------- | ------------- | ------------- |
+| ![Screenshot of incorrect years](img/incorrect_years.png "Screenshot of incorrect years") | ![Screenshot of valid entry](img/valid_entry.png "Screenshot of valid entry") | ![Screenshot of calculation](img/calculation.png "Screenshot of calculation") |
 
+#### **Skill Sets:**
+
+| *Code for [Skill Set 10](../skillsets/ss10_travel_time/Methods.java)* | *Code for [Skill Set 11-1](../skillsets/ss11_product_class/Product.java) [Skill Set 11-2](../skillsets/ss11_product_class/ProductDemo.java)* | *Code for [Skill Set 12-1](../skillsets/ss12_book_inherits_product_class/Product.java) [Skill Set 12-2](../skillsets/ss12_book_inherits_product_class/Book.java) [Skill Set 12-3](../skillsets/ss12_book_inherits_product_class/BookDemo.java)* |
+| ------------- | ------------- | ------------- |
+| ![Screenshot of Skill Set 10](img/ss10.png "Skill Set 10") | ![Screenshot of Skill Set 11](img/ss11.png "Skill Set 11") | ![Screenshot of Skill Set 12](img/ss12.png "Skill Set 12") |

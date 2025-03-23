@@ -34,6 +34,13 @@
     - Create Splash/Loading Screen
 
 4. [A4 README.md](a4/README.md "My A4 README.md file")
+    - Include splash screen image (or, create your own), app title, intro text.
+    - Include appropriate images.
+    - Must use persistent data: SharedPreferences
+    - Widgets and images must be vertically and horizontally aligned.
+    - Must add background color(s) or theme
+    - Create and display launcher icon image
+    - App *must* be scrollable—*both* horizontally and vertically
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
 

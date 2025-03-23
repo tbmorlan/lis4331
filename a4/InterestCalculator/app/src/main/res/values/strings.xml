@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Interest Calculator</string>
+
+    <!-- activity_main.xml -->
+    <string name="principalOutput">Principal: </string>
+    <string name="interestOutput">Interest: </string>
+    <string name="yearsOutput">Years: </string>
+    <string name="totalPaidOutput">Total paid: </string>
+    <string name="totalInterestOutput">Total interest: </string>
+    <string name="invalidYearsOutput">Only 10, 20, or 30 yrs. permitted.</string>
+
+    <!-- for both -->
+    <string name="txtTitle">Interest Calculator</string>
+    <string name="hint1">Principal</string>
+    <string name="hint2">Rate</string>
+    <string name="hint3">Years (10, 20, or 30)</string>
+    <string name="btnCompute">Compute</string>
+
+    <!-- activity_splash.xml -->
+    <string name="txtAuthor">Tanner Morlan</string>
+    <string name="txtCompany">tannermorlan.com</string>
+    <string name="txtContact">tannerbmorlan@gmail.com</string>
+    <string name="description">House Image</string>
+</resources>
