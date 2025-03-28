@@ -34,7 +34,7 @@
 
 | *Screenshot of Items Activity* | *Screenshot of Item Activity* |
 | ------------- | ------------- |
-| ![Screenshot of Items Activity](img/items_activity.png "Screenshot of Items Activity") | ![Screenshot of Item Activity](img/item_activity.png "Screenshot of Item Activity) |
+| ![Screenshot of Items Activity](img/items_activity.png "Screenshot of Items Activity") | ![Screenshot of Item Activity](img/item_activity.png "Screenshot of Item Activity") |
 
 | *Screenshot of Read More...* | *Gif of Items Activity Scrolling* |
 | ------------- | ------------- |
