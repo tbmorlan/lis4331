@@ -43,6 +43,12 @@
     - App *must* be scrollable—*both* horizontally and vertically
 
 5. [A5 README.md](a5/README.md "My A5 README.md file")
+    - Include splash screen (optional)
+    - Main screen with app title and list of articles.
+    - Must find and use your own RSS feed.
+    - Must add background color(s) or theme
+    - Create and display launcher icon image
+    - App *must* be scrollable—*both* horizontally and vertically
 
 6. [P1 README.md](p1/README.md "My P1 README.md file")
     - Create App that plays music.

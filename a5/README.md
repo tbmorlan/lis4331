@@ -7,44 +7,35 @@
 
 ## Tanner Morlan
 
-### **Assignment 1 Requirements:**
+### **Assignment 5 Requirements:**
 
-*Four Parts*
+*Six Parts*
 
-1. Distributed Version Control with Git and Bitbucket
-2. Development Installations
-3. Chapter Questions (Chs. 1, 2)
-4. Bitbucket repo links
+1. Include splash screen (optional)
+2. Main screen with app title and list of articles.
+3. Must find and use your own RSS feed.
+4. Must add background color(s) or theme
+5. Create and display launcher icon image
+6. App *must* be scrollable—*both* horizontally and vertically
 
 **README.md file should include the following items:**
 
-- Screenshot of running java Hello
-- Screenshot of running Android Studio - My First App
-- Screenshots of running Android Studio - Contacts App
-- Git commands w/short descriptions
+- Screenshot of Items Activity
+- Screenshot of Item Activity
+- Screenshot of Read More...
+- Gif of Items Activity Scrolling
 
 > This is a blockquote.
 > 
 > This is the second paragraph in the blockquote.
 >
-> #### Git commands w/short descriptions:
-
-1. git init: Create an empty Git repository or reinitialize an existing one
-2. git status: Show the working tree status
-3. git add: Add file contents to the index
-4. git commit: Record changes to the repository
-5. git push: Update remote refs along with associated objects
-6. git pull: Fetch from and integrate with another repository or a local branch
-7. One addition git command - git clone: Clone a repository into a new directory
 
 #### **Assignment Screenshots:**
 
-| *Screenshot of running java Hello* | *Screenshot of Android Studio - My First App* |
+| *Screenshot of Items Activity* | *Screenshot of Item Activity* |
 | ------------- | ------------- |
-| ![Screenshot of running java Hello](img/java_hello.png "Screenshot of running java Hello") | ![Screenshot of Android Studio - My First App](img/android_studio_my_first_app.png "Screenshot of Android Studio - My First App") |
+| ![Screenshot of Items Activity](img/items_activity.png "Screenshot of Items Activity") | ![Screenshot of Item Activity](img/item_activity.png "Screenshot of Item Activity) |
 
-| *Screenshot of Contacts App - Main Screen* | *Screenshot of Contacts App - Info Screen* |
+| *Screenshot of Read More...* | *Gif of Items Activity Scrolling* |
 | ------------- | ------------- |
-| ![Screenshot of Contacts App - Main Screen](img/main_screen.png "Screenshot of Contacts App - Main Screen") | ![Screenshot of Contacts App - Info Screen](img/info_screen.png "Screenshot of Contacts App - Info Screen") |
-
-
+| ![Screenshot of Read More...](img/read_more.png "Screenshot of Read More...") | ![Gif of Items Activity Scrolling](img/scrolling.gif "Gif of Items Activity Scrolling") |
